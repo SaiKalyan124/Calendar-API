@@ -1,4 +1,4 @@
-### Calendar API
+### Set up One-on-One with Ease
 
 ![image](https://user-images.githubusercontent.com/104048277/226143051-b6a492c6-a2ba-490e-b49d-e1c77fb2bc6c.png)
 
